@@ -7,7 +7,7 @@ const ramos = [
   { nombre: "CFG (100)", nivel: 100 },
 
   { nombre: "Bioquímica", nivel: 200, prereq: ["Química"] },
-  { nombre: "Morfo función II", nivel: 200, prereq: ["Química"] },
+  { nombre: "Morfo función II", nivel: 200, prereq: ["Morfo función I"] },
   { nombre: "Bioestadística", nivel: 200 },
   { nombre: "Psicología general", nivel: 200 },
   { nombre: "Introducción a la ciencia de la Enfermería", nivel: 200 },
